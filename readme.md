@@ -1,0 +1,1 @@
+Primeiro commit no projeto, logo irei deixar o readme mais estruturado com os passos básicos para criar um clássico "hello world" com FastAPI
